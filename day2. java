@@ -1,0 +1,23 @@
+package dolandre;
+
+public class Day2 {
+    public static void main(String[] args) {
+        String nama = "Dolandre Febrianto";
+        int umur = 20;
+        double tinggi = 165.7;
+        double berat = 50.0;
+        String jenis_kelamin = "Laki-Laki";
+        char ukuran_baju = 'L';
+        
+        System.out.println("Nama Saya Adalah "+nama);
+        System.out.println("Umur Saya Sekarang Adalah "+umur+" Tahun");
+        System.out.println("Saya Memiliki Tinggi "+tinggi+" cm");
+        System.out.println("Saya Memiliki Berat "+berat+" kg");
+        System.out.println("Ukuran Baju Saya Adalah "+ukuran_baju);
+        System.out.println("Jenis Kelamin: "+jenis_kelamin);
+        
+        
+        
+    }
+    
+}
